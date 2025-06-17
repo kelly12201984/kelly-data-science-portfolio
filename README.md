@@ -29,7 +29,7 @@ Welcome to my professional portfolio—where data meets design, and models meet 
 
 ---
 
-### 🛒 **ETL + BI Reporting: FudgeMart & FudgeFlix**
+### 🛒 **ETL + BI Reporting**
 **Tools:** Azure Data Factory, SQL Server Management Studio (SSMS), Power BI  
 **Highlight:** Designed and implemented a full ETL pipeline, transforming messy transactional data into sleek dashboards.  
 📂 [`/fudgemart-etl`](./fudgemart-etl)
@@ -46,9 +46,9 @@ Welcome to my professional portfolio—where data meets design, and models meet 
 ## 📊 Skills & Tools
 
 - **Languages:** Python, R, SQL  
-- **Frameworks & Platforms:** PySpark, Azure, Power BI, Streamlit  
+- **Frameworks & Platforms:** PySpark, Azure, Power BI, Streamlit,   
 - **Concepts:** Predictive modeling, data engineering, visual storytelling, statistical inference  
-- **Bonus:** I also built [TankSnip](https://tanksnip.streamlit.app), a real-world app used by engineers for material estimation
+- **Bonus:** I also built [TankSnip](https://tanksnip.streamlit.app), a real-world app extracts critical specs from dense ASME (calculations) PDFs, making job estimations quicker and easier. 
 
 ---
 
