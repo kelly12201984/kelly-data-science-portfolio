@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kelly Arseneau | Data Science Portfolio</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f9fa;
+      color: #222;
+    }
+    header {
+      background-color: #1e293b;
+      color: white;
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-style: italic;
+      margin-top: 1rem;
+      font-size: 1.2rem;
+      color: #cbd5e1;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    section h2 {
+      color: #334155;
+      border-bottom: 2px solid #e2e8f0;
+      padding-bottom: 0.5rem;
+    }
+    .project {
+      margin-bottom: 2rem;
+    }
+    .project h3 {
+      margin: 0.5rem 0 0.2rem;
+      color: #1e293b;
+    }
+    .project p {
+      margin-top: 0;
+      color: #475569;
+    }
+    footer {
+      background-color: #e2e8f0;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+    a {
+      color: #3b82f6;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kelly Arseneau</h1>
+    <p>The best ideas start with a question. I make sure they don't end there.</p>
+  </header>
+
+  <section>
+    <h2>Featured Projects</h2>
+
+    <div class="project">
+      <h3><em>TankSnip</em> — Estimating Smarter</h3>
+      <p>A real-world app built for tank sales managers and fabricators. It extracts key specs from dense engineering PDFs, streamlining quoting and reducing errors in tank manufacturing workflows. <a href="https://tanksnip.streamlit.app/" target="_blank">Live App</a> | <a href="https://github.com/kelly12201984/Kellys-API-calc-reader-App" target="_blank">GitHub</a></p>
+    </div>
+
+    <div class="project">
+      <h3><em>F1 Forecast</em> — Predicting Constructors’ Success</h3>
+      <p>Used R and ensemble ML to forecast F1 standings, paired with a fan-focused visualization poster. <a href="https://github.com/kelly12201984/F1_Data_Project" target="_blank">GitHub</a></p>
+    </div>
+
+    <div class="project">
+      <h3><em>Housing Intelligence</em> — Real Estate Price Prediction</h3>
+      <p>Built a PySpark pipeline in Colab to identify undervalued homes, explaining ~71% of price variance with Gradient Boosted Trees. <a href="https://github.com/kelly12201984/Real-Estate-Pricing-Analysis" target="_blank">GitHub</a></p>
+    </div>
+
+    <div class="project">
+      <h3><em>Viz-a-Thon</em> — Onondaga Water Quality</h3>
+      <p>Analyzed trends in water temperature and dissolved oxygen across depth and time in Onondaga Lake using multivariate visualizations in R. Created a poster using Illustrator to highlight environmental patterns. <a href="https://github.com/kelly12201984/Viz-a-Thon-Onondaga-Water-Analysis" target="_blank">GitHub</a></p>
+    </div>
+
+    <div class="project">
+      <h3><em>FudgeMart & FudgeFlix</em> — ETL & Reporting</h3>
+      <p>Built a full ETL pipeline in Azure and SSMS to support Power BI sales reporting. Projects focused on schema design, data transformation, and visual insights. <a href="https://github.com/kelly12201984/ETL-Project" target="_blank">GitHub</a></p>
+    </div>
+
+    <div class="project">
+      <h3><em>Dog Adoption DB</em> — SQL Schema Design</h3>
+      <p>Designed and implemented a normalized PostgreSQL schema for a fictional shelter. Used Draw.io for ER diagrams, enforced data integrity with foreign keys, and validated with test queries. <a href="https://github.com/kelly12201984/DataAdmin_DatabaseMgmt/blob/main/README.md" target="_blank">View README</a></p>
+    </div>
+
+  </section>
+
+  <footer>
+    <p>© 2025 Kelly Arseneau | <a href="https://github.com/kelly12201984" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/kellyarseneau/" target="_blank">LinkedIn</a></p>
+  </footer>
+</body>
+</html>
